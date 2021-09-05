@@ -1,5 +1,5 @@
 # Little Supermarket sales dashboard
-Hello everyone, I present a little dashboard for Steam Store Games (Clean dataset) from kaggle (https://www.kaggle.com/aungpyaeap/supermarket-sales).
+Hello everyone, I present a little dashboard for Supermarket sales from kaggle (https://www.kaggle.com/aungpyaeap/supermarket-sales).
 
 How it looks
 
